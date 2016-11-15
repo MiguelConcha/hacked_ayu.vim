@@ -5,7 +5,7 @@ if exists("syntax_on")
   syntax reset
 endif
 let s:style = &background
-let g:colors_name = "ayu"
+let g:colors_name = "hacked_ayu"
 "}}}
 
 " Palettes:"{{{
