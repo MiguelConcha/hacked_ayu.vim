@@ -102,7 +102,8 @@ exe "hi! ColorColumn"   .s:fg_none        .s:bg_line        .s:fmt_none
 exe "hi! CursorColumn"  .s:fg_none        .s:bg_line        .s:fmt_none
 exe "hi! CursorLine"    .s:fg_none        .s:bg_line        .s:fmt_none
 
-highlight CursorLine guibg=#858a8f
+" get rid of dark cursorline color
+" highlight CursorLine guibg=#858a8f
 
 exe "hi! CursorLineNr"  .s:fg_keyword     .s:bg_line        .s:fmt_none
 exe "hi! LineNr"        .s:fg_line_nr     .s:bg_none        .s:fmt_none
