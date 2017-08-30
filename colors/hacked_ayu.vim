@@ -18,7 +18,7 @@ let s:palette.white      = { 'dark' : "#FFFFFF",      'light' : "#FFFFFF" }
 let s:palette.background = { 'dark' : "#1F2429",      'light' : "#e4dad5" }
 let s:palette.foreground = { 'dark' : "#E6E1CF",      'light' : "#5C6773" }
 let s:palette.line       = { 'dark' : "#151A1F",      'light' : "#F2F2F2" } " Line bg
-let s:palette.line_nr    = { 'dark' : "#4D4640",      'light' : "#000000" } " Line numbers
+let s:palette.line_nr    = { 'dark' : "#4D4640",      'light' : "#00005f" } " Line numbers
 let s:palette.selection  = { 'dark' : "#253340",      'light' : "#F0EEE4" }
 let s:palette.guide      = { 'dark' : "#1A2633",      'light' : "#DEDDDC" }
 
