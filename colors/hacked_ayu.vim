@@ -14,7 +14,8 @@ let g:colors_name = "hacked_ayu"
 let s:palette = {}
 
 let s:palette.white      = { 'dark' : "#FFFFFF",      'light' : "#FFFFFF" }
-let s:palette.background = { 'dark' : "#1F2429",      'light' : "#FAFAFA" }
+" let s:palette.background = { 'dark' : "#1F2429",      'light' : "#FAFAFA" }
+let s:palette.background = { 'dark' : "#1F2429",      'light' : "#d0cac6" }
 let s:palette.foreground = { 'dark' : "#E6E1CF",      'light' : "#5C6773" }
 let s:palette.line       = { 'dark' : "#151A1F",      'light' : "#F2F2F2" } " Line bg
 let s:palette.line_nr    = { 'dark' : "#4D4640",      'light' : "#D9D8D7" } " Line numbers
