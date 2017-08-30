@@ -1,7 +1,9 @@
+![code example](https://i.imgur.com/inqmLax.png)
+
 Using VimPlug:
 
 ```
-Plug 'andreweduffy/hacked_ayu.vim'
+Plug 'beigebrucewayne/hacked_ayu.vim'
 ```
 
 Setting it as your scheme:
